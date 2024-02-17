@@ -1,0 +1,6 @@
+mkdir - directory creation
+cd    -  change directory
+touch -  newfile creation
+file  - Check the file type
+ls    - lst files
+ls -lrth - list file with timestamp,dateorder, Humanreadable
